@@ -7,4 +7,6 @@ smart git에서 commit 테스트
 
 branch를 테스트 합니다.
 
-branch 테스트 2
+branch 테스트 2\
+
+Lab PC branch test 3
