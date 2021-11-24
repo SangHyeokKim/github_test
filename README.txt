@@ -6,3 +6,5 @@ Visual Studio Code에서 내용추가
 smart git에서 commit 테스트
 
 branch를 테스트 합니다.
+
+branch 테스트 2
